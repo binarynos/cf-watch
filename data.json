@@ -3,44 +3,45 @@
   "msg": "",
   "data": [
     {
-      "title": "Grey's Anatomy",
-      "desc": "Follows the personal and professional lives of a group of doctors at Seattle’s Grey Sloan Memorial Hospital.",
-      "imgSrc": "https://media.themoviedb.org/t/p/w1280_and_h720_multi_faces/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg",
-      "platform": "JioHotstar",
-      "genres": "Drama",
+      "title": "NCIS",
+      "desc": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has a shred of evidence connected to Navy and Marine Corps personnel, regardless of rank or position.",
+      "imgSrc": "https://media.themoviedb.org/t/p/w1280_and_h720_multi_faces/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
+      "platform": "Amazon Prime Video",
+      "genres": "Crime, Drama, Action & Adventure",
       "certification": "U"
     },
     {
-      "title": "The Last Frontier",
-      "desc": "When a prison transport plane crashes in the remote Alaskan wilderness—freeing dozens of violent inmates—the region's lone marshal must protect the town he's vowed to keep safe.",
-      "imgSrc": "https://media.themoviedb.org/t/p/w1280_and_h720_multi_faces/tppoXtkKVh26oEsMdkIGmUqdgVL.jpg",
+      "title": "High Potential",
+      "desc": "Morgan is a single mom with an exceptional mind, whose unconventional knack for solving crimes leads to an unusual and unstoppable partnership with a by-the-book seasoned detective.",
+      "imgSrc": "https://media.themoviedb.org/t/p/w1280_and_h720_multi_faces/nBTCGBbHbUOK8Eo0vQxfZk8Ae94.jpg",
+      "platform": "JioHotstar",
+      "genres": "Drama, Crime, Mystery",
+      "certification": "TV-14"
+    },
+    {
+      "title": "Only Murders in the Building",
+      "desc": "Three strangers share an obsession with true crime and suddenly find themselves wrapped up in one.",
+      "imgSrc": "https://media.themoviedb.org/t/p/w1280_and_h720_multi_faces/WCnEPf4ZNPjszndmrFlDxZ5Uvd.jpg",
+      "platform": "JioHotstar",
+      "genres": "Comedy, Mystery, Crime",
+      "certification": "U/A 16+"
+    },
+    {
+      "title": "The Morning Show",
+      "desc": "A behind-the-scenes look at the lives of the people who help America wake up in the morning, exploring the unique challenges faced by the men and women who carry out this daily televised ritual.",
+      "imgSrc": "https://media.themoviedb.org/t/p/w1280_and_h720_multi_faces/uMsTtNaUEWOE2q64m8zthBIMgen.jpg",
       "platform": "Apple TV+",
       "genres": "Drama",
       "certification": "A"
     },
     {
-      "title": "Law & Order: Special Victims Unit",
-      "desc": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-      "imgSrc": "https://media.themoviedb.org/t/p/w1280_and_h720_multi_faces/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
-      "platform": "JioHotstar",
-      "genres": "Crime, Drama, Mystery",
-      "certification": "U"
-    },
-    {
-      "title": "Law & Order",
-      "desc": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
-      "imgSrc": "https://media.themoviedb.org/t/p/w1280_and_h720_multi_faces/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
-      "platform": "JioHotstar",
-      "genres": "Crime, Drama",
-      "certification": "TV-14"
-    },
-    {
-      "title": "9-1-1",
-      "desc": "Explore the high-pressure experiences of police officers, paramedics and firefighters who are thrust into the most frightening, shocking and heart-stopping situations. These emergency responders must try to balance saving those who are at their most vulnerable with solving the problems in their own lives.",
-      "imgSrc": "https://media.themoviedb.org/t/p/w1280_and_h720_multi_faces/lzQar2yH8EQAk72c8xlF65yP3tl.jpg",
-      "platform": "JioHotstar",
-      "genres": "Drama, Crime, Action & Adventure",
-      "certification": "U/A 16+"
+      "title": "Love in the Clouds",
+      "desc": "At the annual Qingyun Conference in the Hexu Six Realms, Ji Bozai, a warrior from the Jixing Abyss with a past as a convict, defeated Ming Yi, the cold warrior goddess who had reigned supreme for seven consecutive years. Overnight, Ji Bozai became the hottest new star in Jixing Abyss. Meanwhile, Ming Yi, hiding her true identity, disguised herself as a dancer to get close to Ji Bozai. Under their carefully crafted personas, the two engaged in a thrilling dance of deception and attraction, fighting for justice and fairness, and ultimately found a deep and moving love.",
+      "imgSrc": "https://media.themoviedb.org/t/p/w1280_and_h720_multi_faces/krZyxxsbjqWYuNFAQsGaq9KLA9g.jpg",
+      "platform": "Netflix",
+      "genres": "Drama, Sci-Fi & Fantasy",
+      "certification": "PG13"
     }
-  ]
+  ],
+  "ts": 1761028978014
 }
